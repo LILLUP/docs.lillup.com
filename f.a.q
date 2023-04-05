@@ -1,4 +1,4 @@
-Pitch
+// Pitch
 Lead your life
 ​
 Market
@@ -8,7 +8,7 @@ Location
 Lillup is headquartered in Dijon (France) with operational clusters close to Universities and Labs.
 ​
 Problem solved
-Lillup embrace the vision of the Institute For The Future (Palo Alto - USA) and key domains of the HolonIQ report (San Francisco USA -"Education in 2030").
+// Lillup embrace the vision of the Institute For The Future (Palo Alto - USA) and key domains of the HolonIQ report (San Francisco USA -"Education in 2030").
 We designed the first blockchain protocol of the Knowledge Society to face global challenges, the disruption in the field of employment, ways of working and learning due to the 4th Industrial Revolution.
 ​
 Unique approach
