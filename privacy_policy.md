@@ -1,5 +1,5 @@
 <p align="center">
-//     This Privacy Policy ("Policy") explains how personal information is collected, used, and disclosed in connection with the Soulbound NFT Smart Contract ("Smart Contract") created by [insert creator's name]. By using the Smart Contract, you agree to be bound by this Policy.
+This Privacy Policy ("Policy") explains how personal information is collected, used, and disclosed in connection with the Soulbound NFT Smart Contract ("Smart Contract") created by [insert creator's name]. By using the Smart Contract, you agree to be bound by this Policy.
 
     Information We Collect
     2.1. Personal Information: We may collect personal information, such as your name, email address, or wallet address, in order to create and transfer Soulbound NFTs.
