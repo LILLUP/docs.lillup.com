@@ -29,7 +29,6 @@ This Privacy Policy ("Policy") explains how personal information is collected, u
 
     Changes to Privacy Policy
     8.1. We may update or modify this Privacy Policy from time to time.
-    8.2. If we make material changes to this Privacy Policy, we will provide notice by posting a prominent notice on our website.
 
     Contact Us
     9.1. If you have any questions or concerns about this Privacy Policy, please contact us at ampersand@lillup.com
