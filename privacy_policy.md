@@ -21,24 +21,31 @@ This Privacy Policy ("Policy") explains how personal information is collected, u
     4.1. We may disclose personal information to third-party service providers who assist us in creating and transferring & Ampersand tokens.
     4.2. We may disclose personal information as required by law or to protect our legal rights.
     4.3. We may disclose usage data to third parties for analytical purposes.
+    
+    Hyperlinks and third party websites
+    5.1 Our website may contain links to third-party websites that may collect your personal information. If you use such a link to leave our website and visit another site, the terms of this Privacy Policy will not apply to your use of such third-party websites and your actions on those sites. You should familiarize yourself with the privacy policies of other websites, as we do not control their policies and will not be responsible for the protection and privacy of the information you provide when visiting these third-party sites.
+
+    Newsletter
+    6.1 When you subscribe to our newsletter, we use the data you have provided to send us our newsletter by email. You can unsubscribe from the newsletter at any time by clicking on the corresponding link at the bottom of the newsletter.
+    6.2 By subscribing to our newsletter, you certify that you have read and accepted the information relating to the protection of personal data.
 
     Data Security
-    5.1. We implement reasonable and appropriate physical, technical, and administrative safeguards to protect personal information from unauthorized access, use, or disclosure.
-    5.2. We restrict access to personal information to those who need to know the information in order to create and transfer & Ampersand tokens.
+    7.1. We implement reasonable and appropriate physical, technical, and administrative safeguards to protect personal information from unauthorized access, use, or disclosure.
+    7.2. We restrict access to personal information to those who need to know the information in order to create and transfer & Ampersand tokens.
 
     Retention of Information
-    6.1. We retain personal information for as long as necessary to fulfill the purposes for which it was collected, unless a longer retention period is required by law.
-    6.2. We retain usage data for as long as necessary to improve the Smart Contract and its functionality.
+    8.1. We retain personal information for as long as necessary to fulfill the purposes for which it was collected, unless a longer retention period is required by law.
+    8.2. We retain usage data for as long as necessary to improve the Smart Contract and its functionality.
 
     Your Rights
-    7.1. You have the right to access and correct your personal information.
-    7.2. You have the right to request the deletion of your personal information, except in certain circumstances where we are required to retain the information by law.
+    9.1. You have the right to access and correct your personal information.
+    9.2. You have the right to request the deletion of your personal information, except in certain circumstances where we are required to retain the information by law.
 
     Changes to Privacy Policy
-    8.1. We may update or modify this Privacy Policy from time to time.
+    10.1. We may update or modify this Privacy Policy from time to time.
 
     Contact Us
-    9.1. If you have any questions or concerns about this Privacy Policy, please contact us at ampersand@lillup.com
+    11.1. If you have any questions or concerns about this Privacy Policy, please contact us at ampersand@lillup.com
 
 By using the Smart Contract, you agree to be bound by this Privacy Policy.
 </p>
